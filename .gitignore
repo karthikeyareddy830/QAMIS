@@ -1,0 +1,8 @@
+venv/
+storage/
+keys/
+__pycache__/
+*.pyc
+metadata.json
+.DS_Store
+*.log
